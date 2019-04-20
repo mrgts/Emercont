@@ -1,0 +1,27 @@
+{
+  "name": "emercont_pwa",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "emer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrgts/Emercont.git"
+  },
+  "keywords": [
+    "recate",
+    "rescue",
+    "pwa",
+    "ambulancias",
+    "ambulances",
+    "neiva"
+  ],
+  "author": "Maitre Stick Javela & MrGTS",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mrgts/Emercont/issues"
+  },
+  "homepage": "https://github.com/mrgts/Emercont#readme"
+}
